@@ -1,4 +1,4 @@
-# Melita-Config
+# Melita-Config Configuration Repository
 
 This Repo acts to provide the Spring Cloud Config Server with the required Configuration Files.
 
