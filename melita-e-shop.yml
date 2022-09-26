@@ -22,12 +22,12 @@ spring:
       default:
         contentType: application/json
         
-  security:
-    basic:
-      enabled: true
-    user:
-      name: melita_task
-      password: 12345
+#   security:
+#     basic:
+#       enabled: true
+#     user:
+#       name: melita_task
+#       password: 12345
         
 server:
   port: 9095
